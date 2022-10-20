@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋 🙂 💻
 
-### 👔 I'm looking for a Software Engineer / Senior Software Engineer position (remote) [Backend, Full Stack, Ruby, Ruby on Rails]
+### 👔 I'm looking for a Software Engineer / Senior Software Engineer position (Remote / Hybrid / On-site) [Backend, Full Stack, Ruby, Ruby on Rails]
 
 ![Banner cropped](https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png)
 
