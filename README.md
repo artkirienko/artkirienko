@@ -4,7 +4,7 @@
 
 ![Banner cropped](https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png)
 
-Based in Moscow, Russia 🌏
+Based in Vancouver, Canada 🇨🇦
 
 I have 6+ years of experience as a software engineer, most of them using Ruby/Rails stack 💎
 
@@ -13,4 +13,5 @@ I've been enjoying Ruby/Rails stack since 2012, also always learning new develop
 I like being part of an international tech-team building great products, passionate to create and innovate. I like working for a fast agile company which is growing rapidly. I'm excited about transforming an industry, being part of an innovative culture, and making a positive impact on the environment 🚀
 
 ## Contact me 📨
+
 [LinkedIn](https://www.linkedin.com/in/artkirienko/?locale=en_US) 💼
