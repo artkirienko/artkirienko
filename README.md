@@ -6,7 +6,7 @@
 
 Based in Vancouver, Canada 🇨🇦
 
-I have 6+ years of experience as a software engineer, most of them using Ruby/Rails stack 💎
+I have 9+ years of experience as a software engineer, most of them using Ruby/Rails stack 💎
 
 I've been enjoying Ruby/Rails stack since 2012, also always learning new development techniques, frameworks, languages 💻 I'm working remotely in international companies for the last 3 years, and I'm comfortable to communicate with colleagues in English 🇬🇧
 
