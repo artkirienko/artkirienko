@@ -4,12 +4,12 @@
 
 ![Banner cropped](https://raw.githubusercontent.com/artkirienko/artkirienko/master/banner-cropped.png)
 
-Based in Vancouver, Canada 🇨🇦
+Based in Vancouver, BC, and eligible to work in Canada 🇨🇦
 
-I have 9+ years of experience as a software engineer, most of them using Ruby/Rails stack 💎
+I have 10 years of experience as a software engineer, with 9 of them using Ruby/Rails stack 💎
 
-I've been enjoying Ruby/Rails stack since 2012, also always learning new development techniques, frameworks, languages 💻
-I'm working remotely in international companies for the last 5 years, and I'm comfortable to communicate with colleagues in English 🇬🇧
+I've been enjoying Ruby/Rails and JavaScript since 2012, also always learning new development techniques, modern frontend frameworks like React/Vue.js, and languages like TypeScript 💻
+I have onsite, hybrid, and remote experience and have had many business trips during my career 💼
 
 I like being part of an international tech-team building great products, passionate to create and innovate. I like working for a fast agile company which is growing rapidly. I'm excited about transforming an industry, being part of an innovative culture, and making a positive impact on the environment 🚀
 
