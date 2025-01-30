@@ -22,6 +22,10 @@ I like being part of an international tech-team building great products, passion
   </sup></sub>
 </details>
 
+## Key skills
+
+Ruby, Ruby on Rails, RSpec, JavaScript, TypeScript, Docker, Kubernetes, React.js, Vue.js, SQL, MySQL, PostgreSQL, Google Cloud Platform (GCP), Amazon Web Services (AWS), GraphQL, Apache Kafka, RabbitMQ, Elasticsearch, REST APIs, Agile Methodologies, Object-Oriented Programming (OOP), Software Design Patterns
+
 ## Contact me 📨
 
 [LinkedIn](https://www.linkedin.com/in/artkirienko/?locale=en_US) 💼
